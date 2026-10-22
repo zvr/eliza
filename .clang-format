@@ -1,0 +1,16 @@
+BasedOnStyle: InheritParentConfig
+TypeNames: 
+  - ACTION
+  - FILE
+  - PARSER
+  - RULE
+  - RULE_TYPE
+  - SCRIPT
+  - STRING_BUILDER
+  - STRING_LIST
+  - TAG
+  - TAG_MAP
+  - TOKEN
+  - TOKEN_TYPE
+  - TRANSFORMATION
+  - size_t
